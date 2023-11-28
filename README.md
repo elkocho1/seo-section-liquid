@@ -7,7 +7,7 @@
 2. Copy the code inside the new section
 
 ## Code Snippet
-
+```
 
 {%- style -%}
   
@@ -505,3 +505,5 @@
   ]
 }
 {% endschema %}
+
+```
