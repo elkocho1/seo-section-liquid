@@ -5,6 +5,7 @@
 
 1. Create a new section in your theme editor
 2. Copy the code inside the new section
+3. Save the update
 
 ## Code Snippet
 ```
